@@ -1,0 +1,20 @@
+[
+  {
+    "name": "John Doe",
+    "firstName": "John",
+    "description": "Candidate for mayor",
+    "imageUrl": "https://example.com/john-doe.jpg"
+  },
+  {
+    "name": "Jane Smith",
+    "firstName": "Jane",
+    "description": "Candidate for city council",
+    "imageUrl": "https://example.com/jane-smith.jpg"
+  },
+  {
+    "name": "Bob Johnson",
+    "firstName": "Bob",
+    "description": "Candidate for city treasurer",
+    "imageUrl": "https://example.com/bob-johnson.jpg"
+  }
+]
